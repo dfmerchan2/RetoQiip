@@ -1,0 +1,36 @@
+co/com/reto/qiip/userinterfaces/ProductoPage.java
+ co.com.reto.qiip.userinterfaces.ProductoPage
+co/com/reto/qiip/userinterfaces/HomePage.java
+ co.com.reto.qiip.userinterfaces.HomePage
+co/com/reto/qiip/exceptions/ExceptionError.java
+ co.com.reto.qiip.exceptions.ExceptionError
+co/com/reto/qiip/tasks/demoblaze/AgregarProducto.java
+ co.com.reto.qiip.tasks.demoblaze.AgregarProducto
+co/com/reto/qiip/tasks/openuv/ConsultaNivelUv.java
+ co.com.reto.qiip.tasks.openuv.ConsultaNivelUv
+co/com/reto/qiip/utilities/demoblaze/ConstantesDemoblaze.java
+ co.com.reto.qiip.utilities.demoblaze.ConstantesDemoblaze
+co/com/reto/qiip/questions/CompraExitosa.java
+ co.com.reto.qiip.questions.CompraExitosa
+co/com/reto/qiip/models/builder/ParametrosUvBuilder.java
+ co.com.reto.qiip.models.builder.ParametrosUvBuilder
+co/com/reto/qiip/models/ParametrosUv.java
+ co.com.reto.qiip.models.ParametrosUv
+co/com/reto/qiip/utilities/openuv/ConstantesOpenuv.java
+ co.com.reto.qiip.utilities.openuv.ConstantesOpenuv
+co/com/reto/qiip/utilities/openuv/GenerarUrl.java
+ co.com.reto.qiip.utilities.openuv.GenerarUrl
+co/com/reto/qiip/utilities/comun/Builder.java
+ co.com.reto.qiip.utilities.comun.Builder
+co/com/reto/qiip/models/Usuario.java
+ co.com.reto.qiip.models.Usuario
+co/com/reto/qiip/models/builder/UsuarioBuilder.java
+ co.com.reto.qiip.models.builder.UsuarioBuilder
+co/com/reto/qiip/tasks/demoblaze/RealizarPedido.java
+ co.com.reto.qiip.tasks.demoblaze.RealizarPedido
+co/com/reto/qiip/userinterfaces/ReciboCompraPage.java
+ co.com.reto.qiip.userinterfaces.ReciboCompraPage
+co/com/reto/qiip/interactions/AbrirNavegador.java
+ co.com.reto.qiip.interactions.AbrirNavegador
+co/com/reto/qiip/interactions/Alerta.java
+ co.com.reto.qiip.interactions.Alerta

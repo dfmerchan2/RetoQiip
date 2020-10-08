@@ -1,0 +1,10 @@
+co/com/reto/qiip/stepdefinitions/openuv/ConsultarUvStepDefinition.java
+ co.com.reto.qiip.stepdefinitions.openuv.ConsultarUvStepDefinition
+co/com/reto/qiip/runners/demoblaze/ComprarProductoRunner.java
+ co.com.reto.qiip.runners.demoblaze.ComprarProductoRunner
+co/com/reto/qiip/runners/openuv/ConsultarUvRunner.java
+ co.com.reto.qiip.runners.openuv.ConsultarUvRunner
+co/com/reto/qiip/stepdefinitions/comun/Hook.java
+ co.com.reto.qiip.stepdefinitions.comun.Hook
+co/com/reto/qiip/stepdefinitions/demoblaze/ComprarProductoStepDefinition.java
+ co.com.reto.qiip.stepdefinitions.demoblaze.ComprarProductoStepDefinition

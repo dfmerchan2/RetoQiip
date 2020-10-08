@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Consultar el indice de UV en tiempo real" tests="9" skipped="0" failures="0" errors="0" timestamp="2020-10-07T16:47:42" hostname="SQAT1MDEWIN51" time="7.864">
+  <properties/>
+  <testcase name="Consultar indice UV mediante OpenUV" classname="Consultar el indice de UV en tiempo real" time="2.82"/>
+  <testcase name="Consultar indice UV mediante OpenUV" classname="Consultar el indice de UV en tiempo real" time="0.58"/>
+  <testcase name="Validar campos obligatorios de la API" classname="Consultar el indice de UV en tiempo real" time="0.611"/>
+  <testcase name="Validar campos obligatorios de la API" classname="Consultar el indice de UV en tiempo real" time="0.744"/>
+  <testcase name="Validar campos obligatorios de la API" classname="Consultar el indice de UV en tiempo real" time="0.634"/>
+  <testcase name="Validar campos opcionales de la API" classname="Consultar el indice de UV en tiempo real" time="0.605"/>
+  <testcase name="Validar campos opcionales de la API" classname="Consultar el indice de UV en tiempo real" time="0.601"/>
+  <testcase name="Validar campos opcionales de la API" classname="Consultar el indice de UV en tiempo real" time="0.595"/>
+  <testcase name="Validar campos opcionales de la API" classname="Consultar el indice de UV en tiempo real" time="0.618"/>
+  <system-out><![CDATA[{"result":{"uv":0.0705,"uv_time":"2020-01-24T10:50:52.283Z","uv_max":6.295,"uv_max_time":"2020-01-24T04:30:18.289Z","ozone":500,"ozone_time":"2020-10-07T16:39:11.687Z","safe_exposure_time":{"st1":2364,"st2":2837,"st3":3782,"st4":4728,"st5":7565,"st6":14184},"sun_info":{"sun_times":{"solarNoon":"2020-01-24T04:30:18.289Z","nadir":"2020-01-23T16:30:18.289Z","sunrise":"2020-01-23T21:36:14.564Z","sunset":"2020-01-24T11:24:22.013Z","sunriseEnd":"2020-01-23T21:38:57.850Z","sunsetStart":"2020-01-24T11:21:38.727Z","dawn":"2020-01-23T21:09:26.449Z","dusk":"2020-01-24T11:51:10.129Z","nauticalDawn":"2020-01-23T20:37:06.758Z","nauticalDusk":"2020-01-24T12:23:29.819Z","nightEnd":"2020-01-23T20:02:54.244Z","night":"2020-01-24T12:57:42.333Z","goldenHourEnd":"2020-01-23T22:10:38.139Z","goldenHour":"2020-01-24T10:49:58.438Z"},"sun_position":{"azimuth":1.2348690669143942,"altitude":0.09909678022146381}}}}
+{"result":{"uv":0,"uv_time":"2020-10-07T16:39:12.458Z","uv_max":8.8953,"uv_max_time":"2020-10-08T04:06:02.034Z","ozone":314.7,"ozone_time":"2020-10-07T15:04:13.212Z","safe_exposure_time":{"st1":null,"st2":null,"st3":null,"st4":null,"st5":null,"st6":null},"sun_info":{"sun_times":{"solarNoon":"2020-10-08T04:06:02.034Z","nadir":"2020-10-07T16:06:02.034Z","sunrise":"2020-10-07T21:47:34.676Z","sunset":"2020-10-08T10:24:29.392Z","sunriseEnd":"2020-10-07T21:50:05.844Z","sunsetStart":"2020-10-08T10:21:58.224Z","dawn":"2020-10-07T21:23:02.471Z","dusk":"2020-10-08T10:49:01.597Z","nauticalDawn":"2020-10-07T20:54:12.019Z","nauticalDusk":"2020-10-08T11:17:52.049Z","nightEnd":"2020-10-07T20:24:48.247Z","night":"2020-10-08T11:47:15.821Z","goldenHourEnd":"2020-10-07T22:19:45.845Z","goldenHour":"2020-10-08T09:52:18.223Z"},"sun_position":{"azimuth":-0.23842330135000211,"altitude":-0.9070238541786876}}}}
+{"error":{}}
+{"error":{}}
+{"error":{}}
+{"result":{"uv":0.0703,"uv_time":"2020-01-24T10:50:52.283Z","uv_max":6.2749,"uv_max_time":"2020-01-24T04:30:18.289Z","ozone":500,"ozone_time":"2020-10-07T16:39:15.064Z","safe_exposure_time":{"st1":2372,"st2":2846,"st3":3794,"st4":4743,"st5":7589,"st6":14229},"sun_info":{"sun_times":{"solarNoon":"2020-01-24T04:30:18.289Z","nadir":"2020-01-23T16:30:18.289Z","sunrise":"2020-01-23T21:36:14.564Z","sunset":"2020-01-24T11:24:22.013Z","sunriseEnd":"2020-01-23T21:38:57.850Z","sunsetStart":"2020-01-24T11:21:38.727Z","dawn":"2020-01-23T21:09:26.449Z","dusk":"2020-01-24T11:51:10.129Z","nauticalDawn":"2020-01-23T20:37:06.758Z","nauticalDusk":"2020-01-24T12:23:29.819Z","nightEnd":"2020-01-23T20:02:54.244Z","night":"2020-01-24T12:57:42.333Z","goldenHourEnd":"2020-01-23T22:10:38.139Z","goldenHour":"2020-01-24T10:49:58.438Z"},"sun_position":{"azimuth":1.2348690669143942,"altitude":0.09909678022146381}}}}
+{"result":{"uv":0.0929,"uv_time":"2020-01-24T10:50:52.283Z","uv_max":11.2576,"uv_max_time":"2020-01-24T04:30:18.289Z","ozone":314.7,"ozone_time":"2020-10-07T15:04:13.212Z","safe_exposure_time":{"st1":1795,"st2":2154,"st3":2871,"st4":3589,"st5":5743,"st6":10768},"sun_info":{"sun_times":{"solarNoon":"2020-01-24T04:30:18.289Z","nadir":"2020-01-23T16:30:18.289Z","sunrise":"2020-01-23T21:36:14.564Z","sunset":"2020-01-24T11:24:22.013Z","sunriseEnd":"2020-01-23T21:38:57.850Z","sunsetStart":"2020-01-24T11:21:38.727Z","dawn":"2020-01-23T21:09:26.449Z","dusk":"2020-01-24T11:51:10.129Z","nauticalDawn":"2020-01-23T20:37:06.758Z","nauticalDusk":"2020-01-24T12:23:29.819Z","nightEnd":"2020-01-23T20:02:54.244Z","night":"2020-01-24T12:57:42.333Z","goldenHourEnd":"2020-01-23T22:10:38.139Z","goldenHour":"2020-01-24T10:49:58.438Z"},"sun_position":{"azimuth":1.2348690669143942,"altitude":0.09909678022146381}}}}
+{"result":{"uv":0,"uv_time":"2020-10-07T16:39:16.274Z","uv_max":5.2728,"uv_max_time":"2020-10-08T04:06:02.034Z","ozone":500,"ozone_time":"2020-10-07T16:39:16.274Z","safe_exposure_time":{"st1":null,"st2":null,"st3":null,"st4":null,"st5":null,"st6":null},"sun_info":{"sun_times":{"solarNoon":"2020-10-08T04:06:02.034Z","nadir":"2020-10-07T16:06:02.034Z","sunrise":"2020-10-07T21:47:34.676Z","sunset":"2020-10-08T10:24:29.392Z","sunriseEnd":"2020-10-07T21:50:05.844Z","sunsetStart":"2020-10-08T10:21:58.224Z","dawn":"2020-10-07T21:23:02.471Z","dusk":"2020-10-08T10:49:01.597Z","nauticalDawn":"2020-10-07T20:54:12.019Z","nauticalDusk":"2020-10-08T11:17:52.049Z","nightEnd":"2020-10-07T20:24:48.247Z","night":"2020-10-08T11:47:15.821Z","goldenHourEnd":"2020-10-07T22:19:45.845Z","goldenHour":"2020-10-08T09:52:18.223Z"},"sun_position":{"azimuth":-0.23886215819120385,"altitude":-0.9069675932963974}}}}
+{"result":{"uv":0,"uv_time":"2020-10-07T16:39:16.895Z","uv_max":8.8953,"uv_max_time":"2020-10-08T04:06:02.034Z","ozone":314.7,"ozone_time":"2020-10-07T15:04:13.212Z","safe_exposure_time":{"st1":null,"st2":null,"st3":null,"st4":null,"st5":null,"st6":null},"sun_info":{"sun_times":{"solarNoon":"2020-10-08T04:06:02.034Z","nadir":"2020-10-07T16:06:02.034Z","sunrise":"2020-10-07T21:47:34.676Z","sunset":"2020-10-08T10:24:29.392Z","sunriseEnd":"2020-10-07T21:50:05.844Z","sunsetStart":"2020-10-08T10:21:58.224Z","dawn":"2020-10-07T21:23:02.471Z","dusk":"2020-10-08T10:49:01.597Z","nauticalDawn":"2020-10-07T20:54:12.019Z","nauticalDusk":"2020-10-08T11:17:52.049Z","nightEnd":"2020-10-07T20:24:48.247Z","night":"2020-10-08T11:47:15.821Z","goldenHourEnd":"2020-10-07T22:19:45.845Z","goldenHour":"2020-10-08T09:52:18.223Z"},"sun_position":{"azimuth":-0.2389335696907712,"altitude":-0.9069584280871784}}}}
+]]></system-out>
+  <system-err><![CDATA[56546 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Consultar indice UV mediante OpenUV
+----------------------------------------------------------------------------?[0m
+57132 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Consultar indice UV mediante OpenUV
+----------------------------------------------------------------------------?[0m
+57751 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Validar campos obligatorios de la API
+----------------------------------------------------------------------------?[0m
+58504 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Validar campos obligatorios de la API
+----------------------------------------------------------------------------?[0m
+59144 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Validar campos obligatorios de la API
+----------------------------------------------------------------------------?[0m
+59758 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Validar campos opcionales de la API
+----------------------------------------------------------------------------?[0m
+60368 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Validar campos opcionales de la API
+----------------------------------------------------------------------------?[0m
+60968 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Validar campos opcionales de la API
+----------------------------------------------------------------------------?[0m
+61590 [Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - ?[92m
+        __    _____ _____ ____ _____   ____   _    ____  ____  _____ ____  
+  _     \ \  |_   _| ____/ ___|_   _| |  _ \ / \  / ___|/ ___|| ____|  _ \ 
+ (_)_____| |   | | |  _| \___ \ | |   | |_) / _ \ \___ \\___ \|  _| | | | |
+  _|_____| |   | | | |___ ___) || |   |  __/ ___ \ ___) |___) | |___| |_| |
+ (_)     | |   |_| |_____|____/ |_|   |_| /_/   \_\____/|____/|_____|____/ 
+        /_/                                                                
+
+TEST PASSED: Validar campos opcionales de la API
+----------------------------------------------------------------------------?[0m
+]]></system-err>
+</testsuite>
